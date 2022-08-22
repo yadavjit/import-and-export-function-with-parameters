@@ -1,2 +1,2 @@
-const sum = require("./exportFunctionWithParameter.js");
-console.log(sum(3, 5));
+const square = require("./exportFunctionWithParameter.js");
+console.log(square(3));

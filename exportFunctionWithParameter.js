@@ -1,4 +1,4 @@
-function sum(num1, num2) {
-  return num1 + num2;
+function square(num1) {
+  return num1 * num1;
 }
-module.exports = sum;
+module.exports = square;
